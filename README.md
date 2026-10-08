@@ -7,27 +7,18 @@
 
 ## 📊 个人评分与统计
 
-<!-- 两列布局：Stats 与 Top Langs 并排，Streak 横跨整行 -->
-<table>
-  <tr>
-    <td>
-      <!-- Readme Stats：自带 Rank 评分（S/A/B/C…） -->
-      <img src="https://github-readme-stats.vercel.app/api?username=yijiantao&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <!-- 常用语言统计 -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiantao&layout=compact&theme=tokyonight" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- 连续贡献 Streak -->
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=yijiantao&theme=tokyonight" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- 两列无边框布局：两个 49% 宽的图片并排 -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yijiantao&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiantao&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<!-- 连续贡献 Streak -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="75%" src="https://streak-stats.demolab.com/?user=yijiantao&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## 🏆 成就奖杯（S/A/B/C 评级）
 
