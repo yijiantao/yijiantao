@@ -1,7 +1,7 @@
-# 你好，我是 yijiantao 👋
+# Hi, I'm Jeter Yee👋
 
 <!-- 一句话介绍，按需修改 -->
-一名热爱开源的开发者。
+机器学习算法/的开发者。
 
 ---
 
@@ -31,12 +31,5 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yijiantao&theme=tokyo-night&hide_border=true)
 
 ## 📫 联系我
-
-<!-- 按需替换成你的链接 -->
-- 📧 Email: your-email@example.com
-- 📝 Blog: https://your-blog.com
-
----
-
-⭐️ 来自 [yijiantao](https://github.com/yijiantao) 的 README
-
+- 📧 Email: jeteryee [at] gmail [dot] com
+- 📝 Blog: https://yijiantao.github.io/
