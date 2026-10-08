@@ -1,7 +1,10 @@
 # Hi, I'm Jeter Yee👋
 
-<!-- 一句话介绍，按需修改 -->
-机器学习算法/的开发者。
+机器学习算法开发者。
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yijiantao&column=7)](https://github.com/yijiantao)
+
+![](https://komarev.com/ghpvc/?username=yijiantao&color=brightgreen)
 
 ---
 
@@ -19,11 +22,6 @@
     <img width="75%" src="https://streak-stats.demolab.com/?user=yijiantao&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
-
-## 🏆 成就奖杯（S/A/B/C 评级）
-
-<!-- 只显示前 6 个奖杯、隐藏详情说明；no-frame=true 可去掉边框 -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yijiantao&row=2&column=3&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 活跃度图表
 
